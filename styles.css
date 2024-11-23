@@ -42,9 +42,9 @@ img {
   border-radius: 16px;
 }
 
-.containerTextHero {
-  /* border: 1px solid green; */
-}
+/*.containerTextHero {
+   border: 1px solid green; 
+}*/
 
 .containerTextHero .title {
   color: #2349ff;
